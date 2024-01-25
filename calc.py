@@ -6,6 +6,8 @@ result = 0
 
 # Funkcja obsługująca kliknięcie przycisku
 
+# DODANY KOMENT
+
 
 def clicked(button):
     global expression
